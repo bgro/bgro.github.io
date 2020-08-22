@@ -17,3 +17,5 @@
 # Lernen
 
 - [Vokabeln lernen mit Anki](http://www.krakel.de/anki_fuer_schueler/)
+- [Ein wenig Musiktheorie](assets/ein_wenig_musiktheorie.pdf)
+- [Rootless Vocings für das Klavier](assets/piano_rootless_voicings.pdf)
