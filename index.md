@@ -6,9 +6,10 @@
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/MOntUaBxvHY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-- Maschine zum Ausblasen von Kerzen in Zeiten von Corona:
+- [Maschine zum Ausblasen von Kerzen in Zeiten von Corona](https://www.youtube.com/watch?v=Ek1jqPhkv-c)
 
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Ek1jqPhkv-c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+- [Die Bristlebot-Arena](https://www.youtube.com/watch?v=ObHd_m9X8zo)
+
 
 ## Dies und das
 
@@ -17,5 +18,5 @@
 # Lernen
 
 - [Vokabeln lernen mit Anki](http://www.krakel.de/anki_fuer_schueler/)
-- [Ein wenig Musiktheorie](assets/ein_wenig_musiktheorie.pdf)
+- [Ein wenig Musiktheorie](assets/ein_wenig_musik_theorie.pdf)
 - [Rootless Vocings für das Klavier](assets/piano_rootless_voicings.pdf)
